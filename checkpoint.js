@@ -189,8 +189,19 @@ function filtrar(funcion) {
   // productos.filtrar(function(p) {
   //   return p.price >= 50;
   // }) => [{price: 100, name:'tv'}]
+}
+  // // NO HAY CASO NO ME SALE // //
 
-};
+  // var funcion = cb.map(function(elemento){
+//   return elemento[price];
+// });
+// funcion.prototype.filtrar = function (cb){
+//   if (cb === elemento.price){
+//   return true;
+// }
+// }
+// return false;
+// };
 
 // No modifiques nada debajo de esta linea
 // 
